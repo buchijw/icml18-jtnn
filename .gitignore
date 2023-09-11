@@ -1,2 +1,7 @@
 *.pyc
 processed/
+.vscode
+.ipynb_checkpoints
+fast_molvae/moses-processed/
+fast_molvae/vae_model/
+GA_working/
